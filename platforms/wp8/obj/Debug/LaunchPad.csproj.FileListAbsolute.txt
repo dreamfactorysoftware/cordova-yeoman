@@ -1,0 +1,14 @@
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\Background.png
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\com.dreamfactory.launchpad.dll
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\com.dreamfactory.launchpad.pdb
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\App.g.cs
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\com.dreamfactory.launchpad.g.resources
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\com.dreamfactory.launchpad.dll
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\com.dreamfactory.launchpad.pdb
+C:\Users\dreamfactory\Documents\GitHub\cordova-yeoman\platforms\wp8\obj\Debug\XapCacheFile.xml
